@@ -1,0 +1,15 @@
+C:\Users\Britton\Desktop\Programming 1415\lab-4-big-to-do-Britton97\bin\Debug\net8.0\lab-4-big-to-do-Britton97.exe
+C:\Users\Britton\Desktop\Programming 1415\lab-4-big-to-do-Britton97\bin\Debug\net8.0\lab-4-big-to-do-Britton97.deps.json
+C:\Users\Britton\Desktop\Programming 1415\lab-4-big-to-do-Britton97\bin\Debug\net8.0\lab-4-big-to-do-Britton97.runtimeconfig.json
+C:\Users\Britton\Desktop\Programming 1415\lab-4-big-to-do-Britton97\bin\Debug\net8.0\lab-4-big-to-do-Britton97.dll
+C:\Users\Britton\Desktop\Programming 1415\lab-4-big-to-do-Britton97\bin\Debug\net8.0\lab-4-big-to-do-Britton97.pdb
+C:\Users\Britton\Desktop\Programming 1415\lab-4-big-to-do-Britton97\obj\Debug\net8.0\lab-4-big-to-do-Britton97.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Britton\Desktop\Programming 1415\lab-4-big-to-do-Britton97\obj\Debug\net8.0\lab-4-big-to-do-Britton97.AssemblyInfoInputs.cache
+C:\Users\Britton\Desktop\Programming 1415\lab-4-big-to-do-Britton97\obj\Debug\net8.0\lab-4-big-to-do-Britton97.AssemblyInfo.cs
+C:\Users\Britton\Desktop\Programming 1415\lab-4-big-to-do-Britton97\obj\Debug\net8.0\lab-4-big-to-do-Britton97.csproj.CoreCompileInputs.cache
+C:\Users\Britton\Desktop\Programming 1415\lab-4-big-to-do-Britton97\obj\Debug\net8.0\lab-4-big-to-do-Britton97.sourcelink.json
+C:\Users\Britton\Desktop\Programming 1415\lab-4-big-to-do-Britton97\obj\Debug\net8.0\lab-4-big-to-do-Britton97.dll
+C:\Users\Britton\Desktop\Programming 1415\lab-4-big-to-do-Britton97\obj\Debug\net8.0\refint\lab-4-big-to-do-Britton97.dll
+C:\Users\Britton\Desktop\Programming 1415\lab-4-big-to-do-Britton97\obj\Debug\net8.0\lab-4-big-to-do-Britton97.pdb
+C:\Users\Britton\Desktop\Programming 1415\lab-4-big-to-do-Britton97\obj\Debug\net8.0\lab-4-big-to-do-Britton97.genruntimeconfig.cache
+C:\Users\Britton\Desktop\Programming 1415\lab-4-big-to-do-Britton97\obj\Debug\net8.0\ref\lab-4-big-to-do-Britton97.dll
